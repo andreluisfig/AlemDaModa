@@ -34,3 +34,11 @@ Para testar os diferentes níveis de acesso na plataforma, clique no botão **En
 * **JavaScript:**
   * Gerenciamento de estado da sacola, filtros e navegação entre telas.
   * Armazenamento local para sessão e persistência do catálogo.
+ 
+---
+
+## Equipe do Projeto
+* André Luís Costa Figueiredo
+* Beatriz Alannis Silva Souza
+* José Luiz Figueiredo da Silva
+* Pedro Henrique Augutoli Souza
